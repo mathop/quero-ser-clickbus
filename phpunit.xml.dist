@@ -1,0 +1,7 @@
+<phpunit bootstrap="./tests/bootstrap.php" colors="true">
+    <testsuites>
+        <testsuite name="Group By Interval Test Suite">
+            <directory>./tests/Mathop/GroupInterval</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
